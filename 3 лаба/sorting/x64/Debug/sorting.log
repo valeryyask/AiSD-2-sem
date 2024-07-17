@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\d\уник\2 сем\асд\3 лаба\sorting\Source.cpp(81,54): warning C4101: time_fast: неиспользованная локальная переменная
+D:\d\уник\2 сем\асд\3 лаба\sorting\Source.cpp(81,12): warning C4101: time_bubble: неиспользованная локальная переменная
+D:\d\уник\2 сем\асд\3 лаба\sorting\Source.cpp(81,25): warning C4101: time_shaker: неиспользованная локальная переменная
+D:\d\уник\2 сем\асд\3 лаба\sorting\Source.cpp(81,38): warning C4101: time_selection: неиспользованная локальная переменная
+D:\d\уник\2 сем\асд\3 лаба\sorting\Source.cpp(79,10): warning C4101: n: неиспользованная локальная переменная
+  sorting.vcxproj -> D:\d\уник\2 сем\асд\3 лаба\sorting\x64\Debug\sorting.exe
